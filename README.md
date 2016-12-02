@@ -1,24 +1,11 @@
-# README
+# Body Mass Index API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This rails 5 app authentincate and response client calls to calculate BMI
 
-Things you may want to cover:
+It supports email registration but could be scale to support github, facebook and google login
 
-* Ruby version
+Validate CORS 
 
-* System dependencies
+#### STATUS
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Alpha version
